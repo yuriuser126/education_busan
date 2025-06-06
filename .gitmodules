@@ -1,0 +1,48 @@
+[submodule "html"]
+	path = html
+	url = https://github.com/yuriuser126/html.git
+[submodule "css"]
+	path = css
+	url = https://github.com/yuriuser126/css.git
+[submodule "javascript"]
+	path = javascript
+	url = https://github.com/yuriuser126/javascript.git
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/yuriuser126/jquery.git
+[submodule "python"]
+	path = python
+	url = https://github.com/yuriuser126/python.git
+[submodule "spring-legacy"]
+	path = spring-legacy
+	url = https://github.com/yuriuser126/spring_legacy.git
+[submodule "spring-boot"]
+	path = spring-boot
+	url = https://github.com/yuriuser126/spring_boot.git
+[submodule "spring-boot-git"]
+	path = spring-boot-git
+	url = https://github.com/yuriuser126/spring_boot_git.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = https://github.com/yuriuser126/elasticsearch.git
+[submodule "web-crawling"]
+	path = web-crawling
+	url = https://github.com/yuriuser126/webcrowling.git
+[submodule "java"]
+	path = java
+	url = https://github.com/yuriuser126/Java.git
+[submodule "oracle"]
+	path = oracle
+	url = https://github.com/yuriuser126/Oracle.git
+[submodule "tests/crawler-scraping"]
+	path = tests/crawler-scraping
+	url = https://github.com/yuriuser126/Crawler-Scraping-test.git
+[submodule "tests/elasticsearch"]
+	path = tests/elasticsearch
+	url = https://github.com/yuriuser126/Elasticsearch-test.git
+[submodule "etc/zip"]
+	path = etc/zip
+	url = https://github.com/yuriuser126/etc-zip-openjdk-..-.git
+[submodule "transaction"]
+	path = transaction
+	url = https://github.com/yuriuser126/transaction.git
